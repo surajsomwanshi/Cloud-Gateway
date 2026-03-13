@@ -51,8 +51,6 @@ Example routing:
 * API Gateway using Spring Cloud Gateway
 * Dynamic routing to microservices
 * Load balancing using service discovery
-* Request and response filtering
-* Path rewriting and prefix stripping
 * Centralized API entry point
 * Scalable microservices communication
 
@@ -119,6 +117,7 @@ spring:
 
 ```
 git clone https://github.com/your-username/cloud-gateway.git
+(Note: clone or download other microservices repo to run the project)
 ```
 
 2. Navigate to the project
